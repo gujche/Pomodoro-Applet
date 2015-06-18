@@ -8,4 +8,4 @@ To run Pomodoro-Applet just enter in the folder where you extracted it, and at t
 "sudo python setup.py install"
 
 After install you can run program by entering to 'bin/' folder and simply typing:
-"pomodoro-applet"
+"pomodoro-indicator"
